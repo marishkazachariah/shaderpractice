@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderParticlePractice", "ShaderParticlePractice.csproj", "{22CC4287-912B-F8F8-19F6-5848C91382F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderParticlePractice.Editor", "ShaderParticlePractice.Editor.csproj", "{F77C5A44-4382-B2F7-9543-61744A94CF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CC4287-912B-F8F8-19F6-5848C91382F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC4287-912B-F8F8-19F6-5848C91382F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC4287-912B-F8F8-19F6-5848C91382F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC4287-912B-F8F8-19F6-5848C91382F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77C5A44-4382-B2F7-9543-61744A94CF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77C5A44-4382-B2F7-9543-61744A94CF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77C5A44-4382-B2F7-9543-61744A94CF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77C5A44-4382-B2F7-9543-61744A94CF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
