@@ -27,7 +27,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;TMP_PRESENT</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;TMP_PRESENT;UNITY_CCU</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -37,7 +37,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;TMP_PRESENT</DefineConstants>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;TMP_PRESENT;UNITY_CCU</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
@@ -135,11 +135,34 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ShaderForge\Editor\ButtonEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\FlagsPropertyDrawer.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\InputFieldEditor.cs" />
     <Compile Include="Assets\ShaderForge\Editor\InternalResources\Inspectors\ShaderForgeInspector.cs" />
     <Compile Include="Assets\ShaderForge\Editor\InternalResources\Inspectors\ShaderForgeMaterialInspector.cs" />
     <Compile Include="Assets\ShaderForge\Editor\InternalResources\Shader Presets\Example Assets\Scripts\EditorLabel.cs" />
     <Compile Include="Assets\ShaderForge\Editor\InternalResources\Shader Presets\Example Assets\Scripts\EnableCameraDepthInForward.cs" />
     <Compile Include="Assets\ShaderForge\Editor\InternalResources\Shader Presets\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\KeyboardButtonEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\KeyboardMalletEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\KeyboardUIEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\LockableHierarchyGUI.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\NumericInputFieldEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\RaySliderEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\StandardInputFieldEditor.cs" />
+    <Compile Include="Assets\ShaderForge\Editor\TooltipsEditor.cs" />
+    <Compile Include="Assets\UnityEditorVR\Scripts\Utilities\Editor\ConditionalCompilationUtility.cs" />
+    <Compile Include="Assets\UnityEditorVR\Tests\Editor\BuildPlayerTest.cs" />
+    <Compile Include="Assets\UnityEditorVR\Tests\Editor\CompilationTest.cs" />
+    <Compile Include="Assets\UnityEditorVR\Tests\Editor\TagManagerTest.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\VRLineRenderer\Scripts\Editor\MeshChainShaderGUI.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\VRLineRenderer\Scripts\Editor\VRLineRendererEditor.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\FakePrototypeStuff\Editor\InputManagerAssetGenerator.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\Input\Editor\ActionMapEditor.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\Input\Editor\ActionMapSlotDrawer.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\Input\Editor\ActionSlotDrawer.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\Input\Editor\DeviceAssignmentsWindow.cs" />
+    <Compile Include="Assets\UnityEditorVR\libs\input-prototype\Input\Editor\InputActionEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\NewShader.shader" />
@@ -357,6 +380,54 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\UnityEditorVR\Fonts\Roboto\Apache License.txt" />
+    <None Include="Assets\UnityEditorVR\Menus\MainMenu\Shaders\TransparentBlurVerticalFade.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\MainMenu\Shaders\VerticalBorderGradient.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialFacesRevealMask.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialFrame.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialMenuBorderGradient.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialMenuIcons.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialMenuSlots.shader" />
+    <None Include="Assets\UnityEditorVR\Menus\RadialMenu\Shaders\RadialMenuSlotsMask.shader" />
+    <None Include="Assets\UnityEditorVR\Models\Hydra\attribution.txt" />
+    <None Include="Assets\UnityEditorVR\Scripts\Modules\SnappingModule\Shaders\GroundPlane.shader" />
+    <None Include="Assets\UnityEditorVR\Scripts\Modules\SnappingModule\Shaders\HorizontalBorderGradient.shader" />
+    <None Include="Assets\UnityEditorVR\Scripts\UI\Shaders\KeyboardButton.shader" />
+    <None Include="Assets\UnityEditorVR\Shaders\Cone.shader" />
+    <None Include="Assets\UnityEditorVR\Shaders\EVRMeshChain.shader" />
+    <None Include="Assets\UnityEditorVR\Shaders\MeshChain.cginc" />
+    <None Include="Assets\UnityEditorVR\Shaders\Silhouette.shader" />
+    <None Include="Assets\UnityEditorVR\Shaders\StandardOverlay.shader" />
+    <None Include="Assets\UnityEditorVR\Shaders\VerticalGradient.shader" />
+    <None Include="Assets\UnityEditorVR\Tools\BlinkLocomotionTool\Shaders\UI-Default-NoDepth.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Base\Shaders\UINoBackface.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Base\Shaders\WorkspaceBackgroundBorderGradient.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Base\Shaders\WorkspaceBackgroundMask.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Base\Shaders\WorkspaceBackgroundVerticalFade.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\GradientButton.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\GradientButtonClip.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\GradientButtonMask.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\GradientButtonMaskClip.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\GradientTexture.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListClip.cginc" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListClip.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListClipText.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListClipTransparent.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListItem.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\ListItemTransparent.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\WorkspaceRenderTextureOverlay.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\WorkspaceText.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\Common\Shaders\WorkspaceTextClip.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\MiniWorldWorkspace\Shaders\CustomClipPlanes.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\MiniWorldWorkspace\Shaders\Grid.shader" />
+    <None Include="Assets\UnityEditorVR\Workspaces\ProjectWorkspace\Shaders\StandardDecal.shader" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\LICENSE.txt" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChain.cginc" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChainAdd.shader" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChainAlpha.shader" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChainMax.shader" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChainMin.shader" />
+    <None Include="Assets\UnityEditorVR\libs\VRLineRenderer\Shaders\MeshChainSubtract.shader" />
     <None Include="Assets\dissolve.shader" />
     <None Include="Assets\glasscrystal.shader" />
     <None Include="Assets\lavaShader.shader" />
